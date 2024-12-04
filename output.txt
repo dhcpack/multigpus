@@ -1,0 +1,114 @@
+8
+[GPU4] Epoch 0 | Batchsize: 32 | Steps: 8
+(3053673.980166035)[GPU4] Epoch 0 | Loss 4.000000
+(3053673.982022287)[GPU4] Epoch 0 | Total Loss 3.500000
+[GPU4] Epoch 1 | Batchsize: 32 | Steps: 8
+(3053674.067955983)[GPU4] Epoch 1 | Loss 4.000000
+(3053674.068278725)[GPU4] Epoch 1 | Total Loss 3.500000
+[GPU4] Epoch 2 | Batchsize: 32 | Steps: 8
+(3053674.105552912)[GPU4] Epoch 2 | Loss 4.000000
+(3053674.105863448)[GPU4] Epoch 2 | Total Loss 3.500000
+[GPU4] Epoch 3 | Batchsize: 32 | Steps: 8
+(3053674.150951658)[GPU4] Epoch 3 | Loss 4.000000
+(3053674.151258188)[GPU4] Epoch 3 | Total Loss 3.500000
+Device 4 finished!
+8
+[GPU6] Epoch 0 | Batchsize: 32 | Steps: 8
+(3053673.984125341)[GPU6] Epoch 0 | Loss 6.000000
+(3053673.986612235)[GPU6] Epoch 0 | Total Loss 3.500000
+[GPU6] Epoch 1 | Batchsize: 32 | Steps: 8
+(3053674.06795516)[GPU6] Epoch 1 | Loss 6.000000
+(3053674.068258529)[GPU6] Epoch 1 | Total Loss 3.500000
+[GPU6] Epoch 2 | Batchsize: 32 | Steps: 8
+(3053674.105737126)[GPU6] Epoch 2 | Loss 6.000000
+(3053674.106041435)[GPU6] Epoch 2 | Total Loss 3.500000
+[GPU6] Epoch 3 | Batchsize: 32 | Steps: 8
+(3053674.150951505)[GPU6] Epoch 3 | Loss 6.000000
+(3053674.151274367)[GPU6] Epoch 3 | Total Loss 3.500000
+Device 6 finished!
+8
+[GPU2] Epoch 0 | Batchsize: 32 | Steps: 8
+(3053673.98367672)[GPU2] Epoch 0 | Loss 2.000000
+(3053673.985120779)[GPU2] Epoch 0 | Total Loss 3.500000
+[GPU2] Epoch 1 | Batchsize: 32 | Steps: 8
+(3053674.066313421)[GPU2] Epoch 1 | Loss 2.000000
+(3053674.068067564)[GPU2] Epoch 1 | Total Loss 3.500000
+[GPU2] Epoch 2 | Batchsize: 32 | Steps: 8
+(3053674.105736696)[GPU2] Epoch 2 | Loss 2.000000
+(3053674.106075853)[GPU2] Epoch 2 | Total Loss 3.500000
+[GPU2] Epoch 3 | Batchsize: 32 | Steps: 8
+(3053674.150954825)[GPU2] Epoch 3 | Loss 2.000000
+(3053674.151312204)[GPU2] Epoch 3 | Total Loss 3.500000
+Device 2 finished!
+8
+[GPU0] Epoch 0 | Batchsize: 32 | Steps: 8
+(3053673.984895296)[GPU0] Epoch 0 | Loss 0.000000
+(3053673.985450292)[GPU0] Epoch 0 | Total Loss 3.500000
+Epoch 0 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 1 | Batchsize: 32 | Steps: 8
+(3053674.064340934)[GPU0] Epoch 1 | Loss 0.000000
+(3053674.066914788)[GPU0] Epoch 1 | Total Loss 3.500000
+[GPU0] Epoch 2 | Batchsize: 32 | Steps: 8
+(3053674.105556045)[GPU0] Epoch 2 | Loss 0.000000
+(3053674.108132359)[GPU0] Epoch 2 | Total Loss 3.500000
+Epoch 2 | Training checkpoint saved at checkpoint.pt
+[GPU0] Epoch 3 | Batchsize: 32 | Steps: 8
+(3053674.150942523)[GPU0] Epoch 3 | Loss 0.000000
+(3053674.15348476)[GPU0] Epoch 3 | Total Loss 3.500000
+Device 0 finished!
+8
+[GPU3] Epoch 0 | Batchsize: 32 | Steps: 8
+(3053673.985351831)[GPU3] Epoch 0 | Loss 3.000000
+(3053673.987188419)[GPU3] Epoch 0 | Total Loss 3.500000
+[GPU3] Epoch 1 | Batchsize: 32 | Steps: 8
+(3053674.067951161)[GPU3] Epoch 1 | Loss 3.000000
+(3053674.068261049)[GPU3] Epoch 1 | Total Loss 3.500000
+[GPU3] Epoch 2 | Batchsize: 32 | Steps: 8
+(3053674.105550432)[GPU3] Epoch 2 | Loss 3.000000
+(3053674.105863455)[GPU3] Epoch 2 | Total Loss 3.500000
+[GPU3] Epoch 3 | Batchsize: 32 | Steps: 8
+(3053674.150960012)[GPU3] Epoch 3 | Loss 3.000000
+(3053674.15126604)[GPU3] Epoch 3 | Total Loss 3.500000
+Device 3 finished!
+8
+[GPU7] Epoch 0 | Batchsize: 32 | Steps: 8
+(3053673.98519699)[GPU7] Epoch 0 | Loss 7.000000
+(3053673.987371719)[GPU7] Epoch 0 | Total Loss 3.500000
+[GPU7] Epoch 1 | Batchsize: 32 | Steps: 8
+(3053674.067957889)[GPU7] Epoch 1 | Loss 7.000000
+(3053674.068159354)[GPU7] Epoch 1 | Total Loss 3.500000
+[GPU7] Epoch 2 | Batchsize: 32 | Steps: 8
+(3053674.105749674)[GPU7] Epoch 2 | Loss 7.000000
+(3053674.106081899)[GPU7] Epoch 2 | Total Loss 3.500000
+[GPU7] Epoch 3 | Batchsize: 32 | Steps: 8
+(3053674.150951293)[GPU7] Epoch 3 | Loss 7.000000
+(3053674.151276249)[GPU7] Epoch 3 | Total Loss 3.500000
+Device 7 finished!
+8
+[GPU5] Epoch 0 | Batchsize: 32 | Steps: 8
+(3053673.984647729)[GPU5] Epoch 0 | Loss 5.000000
+(3053673.986603415)[GPU5] Epoch 0 | Total Loss 3.500000
+[GPU5] Epoch 1 | Batchsize: 32 | Steps: 8
+(3053674.067958336)[GPU5] Epoch 1 | Loss 5.000000
+(3053674.068277635)[GPU5] Epoch 1 | Total Loss 3.500000
+[GPU5] Epoch 2 | Batchsize: 32 | Steps: 8
+(3053674.105762913)[GPU5] Epoch 2 | Loss 5.000000
+(3053674.106075773)[GPU5] Epoch 2 | Total Loss 3.500000
+[GPU5] Epoch 3 | Batchsize: 32 | Steps: 8
+(3053674.150949025)[GPU5] Epoch 3 | Loss 5.000000
+(3053674.151248212)[GPU5] Epoch 3 | Total Loss 3.500000
+Device 5 finished!
+8
+[GPU1] Epoch 0 | Batchsize: 32 | Steps: 8
+(3053673.983799724)[GPU1] Epoch 0 | Loss 1.000000
+(3053673.984202723)[GPU1] Epoch 0 | Total Loss 3.500000
+[GPU1] Epoch 1 | Batchsize: 32 | Steps: 8
+(3053674.064354564)[GPU1] Epoch 1 | Loss 1.000000
+(3053674.064571782)[GPU1] Epoch 1 | Total Loss 3.500000
+[GPU1] Epoch 2 | Batchsize: 32 | Steps: 8
+(3053674.105547725)[GPU1] Epoch 2 | Loss 1.000000
+(3053674.105738237)[GPU1] Epoch 2 | Total Loss 3.500000
+[GPU1] Epoch 3 | Batchsize: 32 | Steps: 8
+(3053674.150945752)[GPU1] Epoch 3 | Loss 1.000000
+(3053674.151157409)[GPU1] Epoch 3 | Total Loss 3.500000
+Device 1 finished!
